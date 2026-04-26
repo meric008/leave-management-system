@@ -1,0 +1,146 @@
+[
+  {
+    "ad": "Meri\u00e7",
+    "izin_turu": "Y\u0131ll\u0131k \u0130zin",
+    "baslangic": "2026-04-27",
+    "bitis": "2026-04-30",
+    "aciklama": "test",
+    "id": 1,
+    "durum": "Onayland\u0131"
+  },
+  {
+    "ad": "Meri\u00e7",
+    "izin_turu": "Y\u0131ll\u0131k \u0130zin",
+    "baslangic": "2026-04-27",
+    "bitis": "2026-04-30",
+    "aciklama": "test",
+    "id": 2,
+    "durum": "Onayland\u0131"
+  },
+  {
+    "ad": "Test",
+    "izin_turu": "Test",
+    "baslangic": "2026-01-01",
+    "bitis": "2026-01-02",
+    "aciklama": "Test",
+    "id": 3,
+    "durum": "Reddedildi"
+  },
+  {
+    "ad": "Test",
+    "izin_turu": "Test",
+    "baslangic": "2026-01-01",
+    "bitis": "2026-01-02",
+    "aciklama": "Test",
+    "id": 4,
+    "durum": "Reddedildi"
+  },
+  {
+    "ad": "Test",
+    "izin_turu": "Test",
+    "baslangic": "2026-01-01",
+    "bitis": "2026-01-02",
+    "aciklama": "Test",
+    "id": 5,
+    "durum": "Reddedildi"
+  },
+  {
+    "ad": "Test",
+    "izin_turu": "Test",
+    "baslangic": "2026-01-01",
+    "bitis": "2026-01-02",
+    "aciklama": "Test",
+    "id": 6,
+    "durum": "Reddedildi"
+  },
+  {
+    "ad": "ali",
+    "izin_turu": "Sa\u011fl\u0131k \u0130zni",
+    "baslangic": "2026-04-26",
+    "bitis": "2026-04-28",
+    "aciklama": "Frontend",
+    "id": 7,
+    "durum": "Reddedildi"
+  },
+  {
+    "ad": "mert",
+    "izin_turu": "Mazeret",
+    "baslangic": "2026-04-26",
+    "bitis": "2026-05-01",
+    "aciklama": "Frontend",
+    "id": 8,
+    "durum": "Onayland\u0131"
+  },
+  {
+    "ad": "",
+    "izin_turu": "Sa\u011fl\u0131k \u0130zni",
+    "baslangic": "2026-05-02",
+    "bitis": "",
+    "aciklama": "Frontend",
+    "id": 9,
+    "durum": "Bekliyor"
+  },
+  {
+    "ad": "Meri\u00e7",
+    "izin_turu": "Sa\u011fl\u0131k \u0130zni",
+    "baslangic": "2026-04-26",
+    "bitis": "2026-04-30",
+    "aciklama": "Frontend",
+    "id": 10,
+    "durum": "Bekliyor"
+  },
+  {
+    "ad": "",
+    "izin_turu": "Sa\u011fl\u0131k \u0130zni",
+    "baslangic": "2026-04-26",
+    "bitis": "2026-04-30",
+    "aciklama": "Frontend",
+    "id": 11,
+    "durum": "Bekliyor"
+  },
+  {
+    "ad": "Meri\u00e7",
+    "izin_turu": "Y\u0131ll\u0131k \u0130zin",
+    "baslangic": "2026-04-26",
+    "bitis": "2026-04-27",
+    "aciklama": "Frontend",
+    "id": 12,
+    "durum": "Bekliyor"
+  },
+  {
+    "ad": "Meri\u00e7",
+    "izin_turu": "Y\u0131ll\u0131k \u0130zin",
+    "baslangic": "2026-04-26",
+    "bitis": "2026-04-27",
+    "aciklama": "Frontend",
+    "id": 13,
+    "durum": "Bekliyor"
+  },
+  {
+    "ad": "",
+    "izin_turu": "Mazeret",
+    "baslangic": "2026-04-26",
+    "bitis": "2026-04-27",
+    "aciklama": "Frontend",
+    "id": 14,
+    "durum": "Bekliyor"
+  },
+  {
+    "ad": "",
+    "izin_turu": "Mazeret",
+    "baslangic": "2026-04-26",
+    "bitis": "2026-04-27",
+    "aciklama": "Frontend",
+    "id": 15,
+    "durum": "Bekliyor"
+  },
+  {
+    "ad": "Meri\u00e7ccc",
+    "izin_turu": "Sa\u011fl\u0131k \u0130zni",
+    "baslangic": "2026-04-26",
+    "bitis": "2026-05-06",
+    "aciklama": "Frontend",
+    "id": 16,
+    "durum": "Bekliyor"
+  }
+]
