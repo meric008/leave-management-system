@@ -40,3 +40,6 @@ Admin Panel: http://127.0.0.1:5500/admin.html
 - POST /izin-talep
 - GET /izinler
 - PUT /izin-durum/{id}
+
+  ## Author
+Meriç Düzel
